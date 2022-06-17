@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "pruebapw-6e15b": {
+      "hosting": {
+        "pruebapw": [
+          "pruebapw-6e15b"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "pruebapw-6e15b"
+  }
+}

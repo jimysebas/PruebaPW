@@ -1,0 +1,8 @@
+<p>gestionar works!</p>
+
+<h2>LISTADO BIENES</h2>
+<ul>
+
+    <li *ngFor="let bien of listaBienes | async">
+        {{bien.nombre}} - {{bien.direccion}} - {{bien.precio}}
+</ul>
